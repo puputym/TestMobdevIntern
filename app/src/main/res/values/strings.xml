@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestSuitmediaMobdev</string>
+    <string name="event_name">event name</string>
+    <string name="event_date">event date</string>
+    <string name="guest_name">guest name</string>
+    <string name="nama">Nama : </string>
+    <string name="pilih_event">Pilih Event</string>
+    <string name="pilih_guest">Pilih Guest</string>
+    <string name="masukan_nama_anda">Masukan Nama Anda</string>
+    <string name="next">next</string>
+</resources>
